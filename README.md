@@ -4,6 +4,7 @@
 This repository contains a data analysis project focused on exploring a music database. The project involves extracting valuable insights related to customer preferences, track popularity, and sales trends. The analysis was performed using SQL queries on the provided database.
 
 Database Schema
+
 The database schema consists of the following tables:
 
 employee: Contains information about the employees, including their job titles.
@@ -33,5 +34,7 @@ The project focuses on extracting various insights from the music database using
 Repository Structure
 
 database_files.rar: Contain the Database files to create the database schema.
+
 Music_Store_query.sql: Contains the SQL queries used to extract insights from the database.
+
 README.md: The current README file providing an overview of the project and repository.
