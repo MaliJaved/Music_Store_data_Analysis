@@ -33,7 +33,7 @@ The project focuses on extracting various insights from the music database using
 
 Repository Structure
 
-database_files.rar: Contain the Database files to create the database schema.
+database_files.rar: Contain the Tables to create the database schema.
 
 Music_Store_query.sql: Contains the SQL queries used to extract insights from the database.
 
